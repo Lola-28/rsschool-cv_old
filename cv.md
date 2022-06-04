@@ -26,3 +26,11 @@ For a long time I worked for mobile operator company as NSS engineer. After my b
 ### Languages:
 * Russian - Native
 * English - Intermediate
+
+### Code example:
+```
+time = int(input())
+m = tim e// 60
+s = time % 60
+print(f"{time} сек - это {m} мин. {s} сек.")
+```
